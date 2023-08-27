@@ -16,7 +16,7 @@
 
 
 * Python, Java, C, Javascript, Turing
-* Alpha Vantage, Scikit Learn ML Models, Numpy, Dataframe, Matplotlib, Sockets
+* Alpha Vantage, Scikit Learn ML Models, Numpy, Dataframe, Matplotlib, Sockets    
 
 
 
