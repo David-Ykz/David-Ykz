@@ -16,10 +16,9 @@
 
 
 * Python, Java, C, Javascript, Turing
-* Alpha Vantage, Scikit Learn ML Models, numpy/dataframe/matplotlib, Sockets
+* Alpha Vantage, Scikit Learn ML Models, Numpy, Dataframe, Matplotlib, Sockets
 
 
 
 
-**Check out my projects below 👇
-**
+**Check out my projects below 👇**
