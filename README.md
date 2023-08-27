@@ -11,11 +11,15 @@
 * Sound Reactive LED - portable light that changes color based on the music
 
 
-### Languages, Libraries, and APIs
+### Previously Used Languages, Libraries, and APIs
 
 
 
 * Python, Java, C, Javascript, Turing
 * Alpha Vantage, Scikit Learn ML Models, numpy/dataframe/matplotlib, Sockets
 
-Check out my projects below 👇
+
+
+
+**Check out my projects below 👇
+**
