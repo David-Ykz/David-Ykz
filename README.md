@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-**I’m currently studying Computer Engineering at UW**
+**UW Computer Engineering Undergraduate**
 
 
 ### Currently Working On:
