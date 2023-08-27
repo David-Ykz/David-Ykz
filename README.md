@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there 👋 
 
-<!--
-**David-Ykz/David-Ykz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I’m currently studying Computer Engineering at UW**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On:
+
+
+
+* Floor-Mapper - algorithm that maps out surroundings using sensors placed on Roomba
+* Sound Reactive LED - portable light that changes color based on the music
+
+
+### Languages, Libraries, and APIs
+
+
+
+* Python, Java, C, Javascript, Turing
+* Alpha Vantage, Scikit Learn ML Models, numpy/dataframe/matplotlib, Sockets
+
+Check out my projects below 👇
