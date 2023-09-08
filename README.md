@@ -7,7 +7,7 @@
 
 
 
-* Floor-Mapper - algorithm that maps out surroundings using sensors placed on Roomba
+* Stock Market Predictor - algorithm to suggest and track top-performing stocks using Alpha Vantage API 
 * Sound Reactive LED - portable light that changes color based on the music
 
 
@@ -16,7 +16,7 @@
 
 
 * Python, Java, C, Javascript, Turing
-* Alpha Vantage, Scikit Learn ML Models, Numpy, Dataframe, Matplotlib, Sockets    
+* Alpha Vantage, Scikit Learn Machine Learning Models, Numpy, Dataframe, Matplotlib, Sockets    
 
 
 
