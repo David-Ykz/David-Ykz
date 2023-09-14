@@ -14,11 +14,11 @@
 ### Previously Used Languages, Libraries, and APIs
 
 
-
-* Python, Java, C, Javascript, Turing
-* Alpha Vantage, Scikit Learn Machine Learning Models, Numpy, Dataframe, Matplotlib, Sockets    
-
-
+* **Proficient:** Python, Java
+* **Prior Experience:** C++, C, Javascript, Turing
+* ** Libraries and APIs:** Alpha Vantage, Numpy, Dataframe, Matplotlib, Sockets    
+* ** Machine Learning Libraries:** PyTorch, TensorFlow, Scikit Learn Models, OpenCV
+* **Other:** JSON, Ubuntu (Linux OS), Excel
 
   
 
