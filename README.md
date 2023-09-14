@@ -7,7 +7,7 @@
 
 
 
-* Stock Market Predictor - algorithm to suggest and track top-performing stocks using Alpha Vantage API 
+* Stock Market Predictor - using sentiment analysis to suggest and track top-performing stocks using Alpha Vantage API 
 * Sound Reactive LED - portable light that changes color based on the music
 
 
