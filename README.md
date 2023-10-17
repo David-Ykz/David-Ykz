@@ -17,9 +17,9 @@
 
 * **Proficient:** Python, Java
 * **Prior Experience:** C++, C, Javascript, Turing
-* **Libraries and APIs:** Alpha Vantage, Numpy, Dataframe, Matplotlib, WebSockets    
-* **Machine Learning Libraries:** PyTorch, TensorFlow, Scikit Learn Models, OpenCV
-* **Other:** JSON, Ubuntu (Linux OS), Excel
+* **Libraries and APIs:** React, Alpha Vantage, Numpy, Dataframe, Matplotlib, WebSockets, Taipy    
+* **Machine Learning Libraries:** PyTorch, TensorFlow, Scikit-Learn , OpenCV
+* **Other:** JSON, Ubuntu (Linux OS), Excel, AWS
 
   
 
