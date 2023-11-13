@@ -15,9 +15,8 @@
 ### Languages, Libraries, and More
 
 
-* **Proficient:** Python, Java
-* **Prior Experience:** C++, C, Javascript, Turing
-* **Libraries and APIs:** React, Alpha Vantage, Numpy, Dataframe, Matplotlib, WebSockets, Taipy    
+* **Languages:** Python, Java, Javascript, C++, C, HTML, CSS
+* **Libraries and APIs:** React, Spring, Spring Boot, Alpha Vantage, Numpy, Dataframe, Matplotlib, WebSockets, Taipy    
 * **Machine Learning Libraries:** PyTorch, TensorFlow, Scikit-Learn , OpenCV
 * **Other:** JSON, Ubuntu (Linux OS), Excel, AWS
 
